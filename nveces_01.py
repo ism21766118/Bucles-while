@@ -8,3 +8,4 @@ while (cont<x):
            cont+=1
 	   suma=suma+aux
 print suma
+
